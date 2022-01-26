@@ -3,7 +3,7 @@ Dr. Gustavo Niz
 Hola, Soy  [Gustavo Niz](http://fisica.ugto.mx/~gfm/group-members/niz/), científico de DESI que se inició en la [Teoría de Cuerdas](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_cuerdas)
 en los años 2000s y que me he estado moviendo hacia cosmología observacional. 
 
-![Group](https://github.com/michaelJwilson/DESI-HighSchool/blob/master/Developers/images/Gustavo.png)
+![Group](https://github.com/michaelJwilson/DESI-HighSchool/blob/main/Developers/images/Gustavo.png)
 
 Después de hacer el Doctorado en la Universidad de Cambridge, dos postdocs en UK, un año sabático ¡en un velero! y alguna que otra aventura más alrededor del 
 mundo, me mudé a la ciudad de León, en 2012, para ser profesor en la Universidad de Guanajuato. 
