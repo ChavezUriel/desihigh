@@ -17,4 +17,4 @@ a huge effort from many people.  I’m so excited about all the science and know
 
 I’m really interested in the popularization of science, particularly for girls. I hope some of them in the future will become scientists! I dedicate some of my free time to a community, [Iconmunity](https://www.instagram.com/iconmunity/), that organizes small workshops, talks, and science shows. Our top program is [Technovation Girls Guanajuato](https://twitter.com/TechnovationGTO), that is about mentoring teams to produce apps that adds to solve a problem in society, enviroments, you name it... These programs are close to my heart. 
 
-![Group](https://github.com/michaelJwilson/DESI-HighSchool/main/master/Developers/images/Alma_outreach.jpg)
+![Group](https://github.com/michaelJwilson/DESI-HighSchool/blob/main/Developers/images/Alma_outreach.jpg)
